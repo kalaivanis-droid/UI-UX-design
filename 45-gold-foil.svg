@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffff00;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#daa520;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b8860b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="20" y="100" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="url(#gold)" stroke="#8b7500" stroke-width="1">GOLD</text>
+  <text x="10" y="140" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Gold foil effect</text>
+</svg>

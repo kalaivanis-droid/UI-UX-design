@@ -1,0 +1,11 @@
+<svg viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <rect x="20" y="65" width="10" height="10" fill="#e74c3c"/>
+  <rect x="30" y="65" width="10" height="10" fill="#e74c3c"/>
+  <rect x="40" y="65" width="10" height="10" fill="#e74c3c"/>
+  <rect x="20" y="75" width="10" height="10" fill="#e74c3c"/>
+  <rect x="40" y="75" width="10" height="10" fill="#e74c3c"/>
+  <rect x="20" y="85" width="10" height="10" fill="#e74c3c"/>
+  <rect x="30" y="85" width="10" height="10" fill="#e74c3c"/>
+  <rect x="40" y="85" width="10" height="10" fill="#e74c3c"/>
+  <text x="10" y="140" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Pixel art text</text>
+</svg>

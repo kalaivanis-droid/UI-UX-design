@@ -1,0 +1,10 @@
+<svg viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="vintage">
+      <feColorMatrix type="saturate" values="0.5"/>
+    </filter>
+  </defs>
+  <rect x="10" y="60" width="300" height="80" fill="#f4e4c1" rx="5"/>
+  <text x="20" y="100" font-family="Georgia, serif" font-size="60" font-weight="bold" fill="#8b6f47" filter="url(#vintage)" font-style="italic">VINTAGE</text>
+  <text x="10" y="140" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Vintage aged effect</text>
+</svg>
