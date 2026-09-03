@@ -1,4 +1,0 @@
-<svg viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
-  <text x="200" y="75" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#2c3e50" text-anchor="middle" transform="rotate(-15 200 75)">ROTATED</text>
-  <text x="10" y="140" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Text rotated at angle</text>
-</svg>
