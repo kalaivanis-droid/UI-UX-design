@@ -1,9 +1,0 @@
-<svg viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="emboss">
-      <feConvolveMatrix kernelMatrix="5 0 -5 10 0 -10 -5 0 5" order="3" bias="0.5" result="emboss"/>
-    </filter>
-  </defs>
-  <text x="20" y="100" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#95a5a6" filter="url(#emboss)">EMBOSS</text>
-  <text x="10" y="140" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Embossed 3D effect</text>
-</svg>
